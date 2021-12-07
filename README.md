@@ -1,2 +1,2 @@
-# go-design-patterns
-Design patterns implemented in Go
+# Design patterns implemented in Go
+
